@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secure File Management System
 
 A Flask-based secure file management system with AES-256 encryption, RSA key wrapping, SHA-256 hashing, and PKI (Public Key Infrastructure).
@@ -118,3 +119,6 @@ The system works without MySQL for basic encryption/decryption. PKI features wil
 ## License
 
 MIT License
+=======
+# SecureMangement
+>>>>>>> 4399b051f09d66076002149c513a21db4512d100
